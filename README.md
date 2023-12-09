@@ -16,10 +16,8 @@ This project is a frontend clone of Booking.com, developed using React.js and CS
 ## Features
 
 - User-friendly interface for browsing hotels.
-- Dynamic and responsive layout using React.js and CSS.
+- Dynamic layout using React.js and CSS.
 - Simulated booking process with step-by-step navigation.
-- Search functionality and real-time data updates.
-- Responsive design for optimal viewing on various devices.
 
 ## Technologies Used
 
@@ -36,8 +34,8 @@ This project is a frontend clone of Booking.com, developed using React.js and CS
 ## Project Structure
 
 - `/src`: Contains the source code for the React.js application.
-  - `/components`: Modular components for different sections of the application.
-  - `/styles`: CSS styles for styling the components.
+  - `/components`: Modular components for different sections of the application along with their respective css files.
+  - `/pages`: Contains different pages needed for the project along with their respective css files.
 - `/public`: Static assets and the HTML file.
 
 ## Contributing
@@ -49,10 +47,6 @@ Contributions are welcome! Feel free to open issues or pull requests.
 3. Make your changes and commit them: `git commit -am 'Add new feature'`
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
