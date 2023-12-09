@@ -26,7 +26,7 @@ This project is a frontend clone of Booking.com, developed using React.js and CS
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/booking-clone.git`
+1. Clone the repository: `git clone https://github.com/ShashankMPatil/booking.com-clone.git`
 2. Navigate to the project directory: `cd booking-clone`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
